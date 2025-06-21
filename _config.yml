@@ -28,8 +28,8 @@ author:
   bio              : "Undergraduate student"
   location         : "Kowloon, Hong Kong"
   employer         : "The Hong Kong <br>Polytechnic University"
-  uri              : # URL
-  email            : "chris_zhanghanqi@163.com<br>(+86) 18145990908<br>(+852) 84903756"
+  uri              : "(+86) 18145990908<br>(+852) 84903756"
+  email            : "chris_zhanghanqi@163.com"
 
   # Academic websites
   academia         : # URL
