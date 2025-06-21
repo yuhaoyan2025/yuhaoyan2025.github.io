@@ -27,8 +27,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Undergraduate student <br>(+86) 18145990908<br>(+852) 84903756"
   location         : "Kowloon, Hong Kong"
-  employer         : "The Hong Kong <br>Polytechnic University"
-  uri              : "https://www.polyu.edu.hk/"
+  employer         : "<a href="https://www.polyu.edu.hk/">The Hong Kong <br>Polytechnic University</a>"
+  uri              : #"https://www.polyu.edu.hk/"
   email            : "chris_zhanghanqi@163.com"
 
   # Academic websites
