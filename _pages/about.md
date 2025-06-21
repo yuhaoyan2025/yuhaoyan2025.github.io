@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Hello! I'm Zhang Hanqi (张涵萁), an undergraduate student majoring in **Electrical Engineering** at the Hong Kong Polytechnic University (QS Ranking: #54), expected to graduate in June 2026. I am also a student member of the Hong Kong Institution of Engineers (HKIE). 
+As a **first-class honour** student with demonstrated research capabilities, I am driven by a profound intellectual curiosity to advance knowledge in electromechanical systems. Currently, I am conducting research under the supervision of Professor Shuangxia Niu from the Hong Kong Polytechnic University. 
+My research interests lie in **Electric Vehicle Technologies, Motor control, Power Electronics, Motor Body Design**, particularly **Rotary-linear Machines**, with **Applications in Electric Vehicles and Robotics**. 
 
 A data-driven personal website
 ======
