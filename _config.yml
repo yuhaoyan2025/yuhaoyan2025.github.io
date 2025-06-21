@@ -25,7 +25,7 @@ author:
   name             : "Hanqi Zhang (Chris)"
   avatar           : "profile.png"
   pronouns         : # example: "she/her"  
-  bio              : "Undergraduate student"
+  bio              : "Undergraduate student <br>(+86) 18145990908<br>(+852) 84903756"
   location         : "Kowloon, Hong Kong"
   employer         : "The Hong Kong <br>Polytechnic University"
   uri              : "https://www.polyu.edu.hk/"
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "(+86) 18145990908<br>(+852) 84903756" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
