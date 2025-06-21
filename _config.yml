@@ -29,16 +29,16 @@ author:
   location         : "Kowloon, Hong Kong"
   employer         : "The Hong Kong Polytechnic University"
   uri              : # URL
-  email            : "chris_zhanghanqi@163.com" 
+  email            : "chris_zhanghanqi@163.com"<br>(+86) 18145990908<br>(+852) 84903756
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
