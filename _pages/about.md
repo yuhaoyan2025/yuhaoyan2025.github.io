@@ -17,8 +17,10 @@ Education
 
 Technical Toolkit
 ------
-Programming Languages: C/C++, Matlab, Python.  
-Technologies: Ansys Maxwell, Simulink(Matlab), SolidWorks, Origin, AutoCAD, Arduino.  
+Programming Languages:  
+C/C++, Matlab, Python.  
+Technologies:  
+Ansys Maxwell, Simulink(Matlab), SolidWorks, Origin, AutoCAD, Arduino.  
 
 Publication
 ------
