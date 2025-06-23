@@ -11,31 +11,31 @@ Hello! I'm Zhang Hanqi (张涵萁), an undergraduate student majoring in **Elect
 As a **first-class honour** student with demonstrated research capabilities, I am driven by a profound intellectual curiosity to advance knowledge in electromechanical systems. Currently, I am conducting research under the supervision of Professor Shuangxia Niu from the Hong Kong Polytechnic University.  
 My research interests lie in **Electric Vehicle Technologies, Motor control, Power Electronics, Motor Body Design**, particularly **Rotary-linear Machines**, with **Applications in Electric Vehicles and Robotics**.  
 
-Education
+🎓 Education
 ------
 2022.09 - Now, BEng (HONS) Electrical Engineering, the Hong Kong Polytechnic University, Hong Kong.  
 
-Technical Toolkit
+📚 Technical Toolkit
 ------
 Programming Languages:  
 C/C++, Matlab, Python.  
 Technologies:  
 Ansys Maxwell, Simulink(Matlab), SolidWorks, Origin, AutoCAD, Arduino.  
 
-Publication
+📜 Publication
 ------
 **Journal**  
 I believe you can have expectations for this.  
 **Conference**  
 2025 IEEE Industry Applications Society Annual Meeting (IAS) (Received, update after published)  
 
-Awards
+🥇 Awards
 ------
 - Champion, Innovative AI Applications Competition, 2025
 - Champion, Micro-controller Application Design Contest, 2024
 - Third Prize, The 10th Hong Kong University Student Innovation and Entrepreneurship Competition, 2024
 
-Others
+🌟 Others
 ------
 **Social responsibility and leadership**  
 Designed and installed off-grid photovoltaic systems in Rwanda, 2024  
