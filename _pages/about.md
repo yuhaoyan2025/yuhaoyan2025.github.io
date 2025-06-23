@@ -24,9 +24,9 @@ Ansys Maxwell, Simulink(Matlab), SolidWorks, Origin, AutoCAD, Arduino.
 
 Publication
 ------
-Journal  
+**Journal**  
 I believe you can have expectations for this.  
-Conference  
+**Conference**  
 2025 IEEE Industry Applications Society Annual Meeting (IAS) (Received, update after published)  
 
 Awards
