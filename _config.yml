@@ -22,7 +22,7 @@ repository               : "ZhangHanqiChirs/ZhangHanqiChirs.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  name             : "Hanqi Zhang (Chris)"
+  name             : "<font size=5>Hanqi Zhang (Chris)</font>"
   avatar           : "profile2.png"
   pronouns         : # example: "she/her"  
   bio              : "<font size=3>Undergraduate student <br>(+86) 18145990908<br>(+852) 84903756</font>"
