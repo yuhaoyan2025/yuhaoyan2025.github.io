@@ -39,4 +39,6 @@ Others
 Designed and installed off-grid photovoltaic systems in Rwanda, 2024  
 **Internship**  
 Shanghai Electric Power Generation Equipment Co., Ltd. Generator Plant, Shanghai Electric, 2025.06 - 2025.08  
+State Grid Benxi Longyuan Electric Power Co., Ltd., 2024.06 - 2024.08  
+Volvo Car Manufacturing Co., Ltd., 2023.05 - 2023.08  
 
