@@ -9,32 +9,32 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Hanqi Zhang's Website"
+title                    : "Anlu Wei Homepage"
 title_separator          : "-"
-name                     : &name "Hanqi Zhang (Chris)"
+name                     : &name "Anlu Wei"
 description              : &description "personal description"
-url                      : https://ZhangHanqiChirs.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://weianlu.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ZhangHanqiChirs/ZhangHanqiChirs.github.io"
+repository               : "weianlu/weianlu.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  name             : "<font size=5>Hanqi Zhang (Chris)</font>"
-  avatar           : "profile2.png"
+  name             : "&emsp;Anlu Wei"
+  avatar           : "profile.png"
   pronouns         : # example: "she/her"  
-  bio              : "<font size=3>Undergraduate student <br>(+86) 18145990908<br>(+852) 84903756</font>"
-  location         : "Kowloon, Hong Kong"
-  employer         : "The Hong Kong <br>Polytechnic University"
-  uri              : #"https://www.polyu.edu.hk/"
-  email            : "chris_zhanghanqi@163.com"
+  bio              : "&emsp;Ph.D. Candidate"
+  location         : "Manchester, UK"
+  employer         : "University of <br>Manchester"
+  uri              : #"https://www.manchester.ac.uk/"
+  email            : "anlu.wei@manchester.ac.uk"
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=6IZOUtEAAAAJ"
   impactstory      : # URL
   orcid            : #"http://orcid.org/yourorcidurl"
   semantic         : # URL
