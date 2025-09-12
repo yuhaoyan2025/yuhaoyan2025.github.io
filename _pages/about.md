@@ -42,7 +42,7 @@ Ni/CeO2形貌对生物油模型化合物乙酸蒸汽重整的影响
 6.  **<u>Y. Yan</u>**, D. Jiang, X. Song, R. Li, Y. Wu, Under methanol in-situ hydrogen supply, UiO-66-based MOF catalysts with different chemical environments efficiently convert palmitic acid into diesel-like hydrocarbons.  
 在甲醇原位氢气供应下，具有不同化学环境的UiO-66基MOF催化剂有效地将棕榈酸转化为类柴油烃  
 **(通过二审)**
-<br>
+
 **以其他作者身份发表：**
 1.  M. Lin, **<u>Y. Yan</u>**, D. Jiang, X. Li, R. Li, Y. Wu, Insights into influence of CeO2 crystal structure effects on hydrothermal hydrogenation for palmitic acid over Ni/CeO2 catalysts.  
 CeO2晶体结构对Ni/CeO2催化剂上棕榈酸水热加氢的影响  
@@ -53,53 +53,31 @@ CeO2晶体结构对Ni/CeO2催化剂上棕榈酸水热加氢的影响
 3.  M. Lin, **<u>Y. Yan</u>**, D. Jiang, S. Zhou, L. Zhan, R. Li, X. Song, Y. Wu, Catalytic transfer hydrogenation with methanol over Pt/C catalyst for synergistic hydrothermal hydrogenation of palmitic acid.  
 Pt/C催化剂上甲醇催化转移加氢棕榈酸协同水热加氢反应  
 **(Energy, SCI, 工程技术一区TOP, IF=9.4)**  
-
-
-
-
-(4) M. Lin, Y. Yan, X. Li, R. Li, Y. Wu, Potassium-assisted activation strategy regulating metal-support interaction to promote hydrothermal hydrogenation/deoxygenation of palmitic acid. 
-钾辅助活化策略调节金属-载体相互作用以促进棕榈酸的水热氢化/脱氧
-(Fuel Processing Technology, SCI, 工程技术二区TOP, IF=7.7)
-(5) M. Lin, Y. Yan, X. Li, R. Li, Y. Wu, Hydrothermal hydrogenation/deoxygenation of palmitic acid to alkanes over Ni/activated carbon catalyst. 
-在Ni/活性炭催化剂上棕榈酸水热加氢/脱氧制备烷烃
-(Chinese Journal of Chemical Engineering, SCI, 工程技术三区, IF=3.7)
-(6) M. Lin, X. Li, Y. Yan, R. Li, Y. Wu, Hydrothermal stable Ni nanoparticles encapsulated in carbon for hydrothermal hydrogenation of long-chain fatty acids to alkanes. 
-包裹在碳中的水热稳定镍纳米粒子用于长链脂肪酸的水热氢化成烷烃
-(Chemical Engineering Journal, SCI, 材料科学一区TOP, IF=13.2)
-(7) M. Lin, D. Jiang, Y. Yan, X. Li, L. zhan, X. Song, R. Li, Y. Wu, Temperature–Controlled hydrothermal hydrogenation of palmitic acid to alkanol or alkanes over Co@CN–x catalysts derived from ZIF–67. 
-温度控制棕榈酸通过受控水热氢化制备烷醇或烷烃Co@CN–x催化剂衍生自ZIF-67。
-(Chemical Engineering Journal, SCI, 材料科学一区TOP, IF=13.2)
-(8) D. Jiang, M. Lin, Y. Yan, L. Zhan, R. Li, Y. Wu, The influence of CeO2 different morphologies effects on hydrodeoxygenation for guaiacol on Ni/CeO2 catalysts. 
-CeO2不同形貌对愈创木酚在Ni/CeO2催化剂上加氢脱氧的影响。
-(Renewable Energy, SCI, 工程技术一区TOP, IF=9.1)
-(9) M. Lin, D. Jiang, Y. Yan, L. Zhan, X. Song, R. Li, Y. Wu, Selective regulation of products for guaiacol hydrodeoxygenation by adjusting type and acidity of supports. 
-通过调节载体的类型和酸度，选择性调节愈创木酚加氢脱氧产物。
-(Bioresour Technol, SCI, 环境科学与生态学一区TOP, IF=9.0)
-(10) L. Zhan, S. Zhou, Y. Yan, D. Jiang, R. Li, Y. Wu, Multi –stage thermal-chemical transformation of reed to produce phenol bio-oil and biochar: Process exploration and life cycle assessment. 
-芦苇多阶段热化学转化生产苯酚生物油和生物炭：工艺探索和生命周期评估。
-(Industrial Crops and Products, SCI, 农林科学一区TOP, IF=6.2)
-(11) M. Lin, D. Jiang, Y. Yan, S. Zhou, R. Li, X. Song, Y. Wu, Directional hydrothermal hydrogenation of palmitic acid to alcohol over carbon-encapsulated highly dispersed Co catalyst.
-在碳包封的高分散钴催化剂上，棕榈酸定向水热加氢制备醇。
- (Chemical Engineering Science, SCI, 工程技术二区, IF=4.3)
-(12) D. Jiang, M. Lin, Y. Yan, L. Zhan, R. Li, Y. Wu, Highly selective hydrogenation of guaiacol to cyclohexanol over carbon-encapsulated highly dispersed cobalt catalyst. 
-在碳包封的高分散钴催化剂上，愈创木酚高选择性加氢制备环己醇。
-(Chemical Engineering Science, SCI, 工程技术二区, IF=4.3)
-
-
-
-
-
-8.  **A. Wei**, R. Zhang, Y. Qin, H. Wang, Q. Ge, and X. Zhu. <br>"Theoretical Insight into Tuning CO2 Methanation and Reverse Water Gas Shift Reactions on MoOx-modified Ni Catalysts." <br>The Journal of Physical Chemistry C, 126, 42, 18078鈥?8089 (2022). (Q2 Journal, Cover Article)
-9.  R. Zhang, **A. Wei**, M. Zhu, X. Wu, H. Wang, Q. Ge, and X. Zhu. <br>"Tuning Reverse Water Gas Shift and Methanation Reactions during CO2 Reduction on Ni Catalysts via Surface Modification by MoOx." <br>Journal of CO2 Utilization, 52:101678 (2021). (Q1 Journal, Impact Factor: 7.1)
-10.  Bahamon, D, **A. Wei**, S. Builes, M. Khaleel, and L. F. Vega.  <br>"Effect of Amine Functionalization of MOF Adsorbents for Enhanced CO2 Capture and Separation: A Molecular Simulation Study." <br>Frontiers in Chemistry, 8:574622 (2021). (Q2 Journal, Impact Factor: 5.2)
-
-🥇 Awards
-------
-- 2020: First-Class Scholarship, Tianjin University
-- 2019: Special Excellent Scholarship, Tianjin University
-- 2017: National Encouragement Scholarship (GPA top 5%), Ministry of Education
-- 2017: Science and Technology Innovation Scholarship, China University of Petroleum
-- 2017: Prize for Excellence of Chemical Safety Design Competition, Ministry of Education
-- 2016: The First Prize Scholarship (Top 3%), China University of Petroleum
-- 2016: Outstanding Student, China University of Petroleum
+4.  M. Lin, **<u>Y. Yan</u>**, X. Li, R. Li, Y. Wu, Potassium-assisted activation strategy regulating metal-support interaction to promote hydrothermal hydrogenation/deoxygenation of palmitic acid.  
+钾辅助活化策略调节金属-载体相互作用以促进棕榈酸的水热氢化/脱氧  
+**(Fuel Processing Technology, SCI, 工程技术二区TOP, IF=7.7)**
+5. M. Lin, **<u>Y. Yan</u>**, X. Li, R. Li, Y. Wu, Hydrothermal hydrogenation/deoxygenation of palmitic acid to alkanes over Ni/activated carbon catalyst.  
+在Ni/活性炭催化剂上棕榈酸水热加氢/脱氧制备烷烃  
+**(Chinese Journal of Chemical Engineering, SCI, 工程技术三区, IF=3.7)**
+6.  M. Lin, X. Li, **<u>Y. Yan</u>**, R. Li, Y. Wu, Hydrothermal stable Ni nanoparticles encapsulated in carbon for hydrothermal hydrogenation of long-chain fatty acids to alkanes.  
+包裹在碳中的水热稳定镍纳米粒子用于长链脂肪酸的水热氢化成烷烃  
+**(Chemical Engineering Journal, SCI, 材料科学一区TOP, IF=13.2)**
+7.  M. Lin, D. Jiang, **<u>Y. Yan</u>**, X. Li, L. zhan, X. Song, R. Li, Y. Wu, Temperature–Controlled hydrothermal hydrogenation of palmitic acid to alkanol or alkanes over Co@CN–x catalysts derived from ZIF–67.  
+温度控制棕榈酸通过受控水热氢化制备烷醇或烷烃Co@CN–x催化剂衍生自ZIF-67  
+**(Chemical Engineering Journal, SCI, 材料科学一区TOP, IF=13.2)**
+8.  D. Jiang, M. Lin, **<u>Y. Yan</u>**, L. Zhan, R. Li, Y. Wu, The influence of CeO2 different morphologies effects on hydrodeoxygenation for guaiacol on Ni/CeO2 catalysts.  
+CeO2不同形貌对愈创木酚在Ni/CeO2催化剂上加氢脱氧的影响  
+**(Renewable Energy, SCI, 工程技术一区TOP, IF=9.1)**
+9.  M. Lin, D. Jiang, **<u>Y. Yan</u>**, L. Zhan, X. Song, R. Li, Y. Wu, Selective regulation of products for guaiacol hydrodeoxygenation by adjusting type and acidity of supports.  
+通过调节载体的类型和酸度，选择性调节愈创木酚加氢脱氧产物  
+**(Bioresour Technol, SCI, 环境科学与生态学一区TOP, IF=9.0)**
+10.  L. Zhan, S. Zhou, **<u>Y. Yan</u>**, D. Jiang, R. Li, Y. Wu, Multi –stage thermal-chemical transformation of reed to produce phenol bio-oil and biochar: Process exploration and life cycle assessment.  
+芦苇多阶段热化学转化生产苯酚生物油和生物炭：工艺探索和生命周期评估  
+**(Industrial Crops and Products, SCI, 农林科学一区TOP, IF=6.2)**
+11.  M. Lin, D. Jiang, **<u>Y. Yan</u>**, S. Zhou, R. Li, X. Song, Y. Wu, Directional hydrothermal hydrogenation of palmitic acid to alcohol over carbon-encapsulated highly dispersed Co catalyst.  
+在碳包封的高分散钴催化剂上，棕榈酸定向水热加氢制备醇  
+**(Chemical Engineering Science, SCI, 工程技术二区, IF=4.3)**
+12.  D. Jiang, M. Lin, **<u>Y. Yan</u>**, L. Zhan, R. Li, Y. Wu, Highly selective hydrogenation of guaiacol to cyclohexanol over carbon-encapsulated highly dispersed cobalt catalyst.  
+在碳包封的高分散钴催化剂上，愈创木酚高选择性加氢制备环己醇  
+**(Chemical Engineering Science, SCI, 工程技术二区, IF=4.3)**
 
