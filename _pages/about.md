@@ -7,42 +7,25 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a Ph.D. Candidate in Computational Chemistry at the University of Manchester, where I am advised by Prof. **Nikolas Kaltsoyannis**. Before joining the University of Manchester, I obtained my M.S. degree in Chemical Technology from Tianjin University (Prof. **Qingfeng Ge**) in 2022. I also hold a B.E. degree in Chemical Engineering and Technology from China University of Petroleum (2019), and completed exchange programs at Khalifa University (Prof. **Lourdes F. Vega**) and Universiti Teknologi PETRONAS (Malaysia).  
-
-My background is rooted in theoretical and computational chemistry. Moving forward, my research interests are focused on nanoscale computation, specifically its applications in materials and drug design. I possess strong expertise in various computational methodologies including **Density Functional Theory (DFT), molecular simulations (VASP, LAMMPS)**, and **quantum chemistry calculations (Gaussian)**. I am also highly proficient in **Python** for data analysis and simulation workflow automation, enabling me to explore complex systems for innovative solutions.  
-
-Please find my **CV** and **Google Scholar** [here](https://scholar.google.com/citations?hl=en&user=6IZOUtEAAAAJ). I am expected to be on the job market in late 2025 / early 2026. Please feel free to reach out :)  
-Email: [anlu.wei@postgrad.manchester.ac.uk](mailto:anlu.wei@postgrad.manchester.ac.uk)  
-
-🎓 Experience
+📚 基础信息
 ------
-**Education**  
-- 09/2022 - 09/2026(Expected), Ph.D. in Computational Chemistry, University of Manchester, Manchester in UK.
-- 06/2019 - 06/2022, M.S. in Chemical Technology, Tianjin University (985 & 211 Project), Tianjin in China.
-- 01/2019 - 07/2019, Exchange Student, Khalifa University, Abu Dhabi in UAE.
-- 06/2017 - 08/2017, Exchange Student, Universiti Teknologi PETRONAS, Malaysia.
-- 09/2015 - 06/2019, B.E. in Chemical Engineering and Technology, China University of Petroleum (211 Project), Qingdao in China.
+中共党员 | 26岁 | 安徽合肥人 | 博士
+电话：15235178940      微信:Yyh_171014   QQ:2099134935
 
-**Research Experience**  
-- Research Assistant, Chinese Academy of Science, 06/2018 鈥?08/2018
+🎓 教育情况
+------
+- 2021.09 - 至今, 硕博连读 | 北京林业大学与清华大学 (核能与新能源研究院) 联培 |生物质能源与材料
+- 2017.09 - 2021.06, 本科 | 山西大学 | 应用化学 化学工程与工艺方向
 
-**Teaching Experience**
-- Graduate Teaching Assistant, University of Manchester, 09/2023 鈥?06/2025
+**研究方向**  
+- **工厂系统控制**：化工工艺流程设计，全系统生命周期评价与经济技术分析；**多相催化**：多功能催化剂的设计与合成，多组分异质结组分制备与表征；**航空燃油生产**：脂肪酸加氢/原位转移氢化制备高品质航空燃油；**氢能**：生物油蒸汽重整制氢
 
-📜 Publication
+📜 研究成果
 ------
 1.  **A. Wei**, N. Kaltsoyannis. <br>"Helium Migration in Zirconolite: A Density Functional Theory Investigation." <br>Journal of Nuclear Materials, 155953 (2025). (Q1 Journal, Impact Factor: 6.2)
 2.  **A. Wei**, R. Zhang, Y. Qin, H. Wang, Q. Ge, and X. Zhu. <br>"Theoretical Insight into Tuning CO2 Methanation and Reverse Water Gas Shift Reactions on MoOx-modified Ni Catalysts." <br>The Journal of Physical Chemistry C, 126, 42, 18078鈥?8089 (2022). (Q2 Journal, Cover Article)
 3.  R. Zhang, **A. Wei**, M. Zhu, X. Wu, H. Wang, Q. Ge, and X. Zhu. <br>"Tuning Reverse Water Gas Shift and Methanation Reactions during CO2 Reduction on Ni Catalysts via Surface Modification by MoOx." <br>Journal of CO2 Utilization, 52:101678 (2021). (Q1 Journal, Impact Factor: 7.1)
 4.  Bahamon, D, **A. Wei**, S. Builes, M. Khaleel, and L. F. Vega.  <br>"Effect of Amine Functionalization of MOF Adsorbents for Enhanced CO2 Capture and Separation: A Molecular Simulation Study." <br>Frontiers in Chemistry, 8:574622 (2021). (Q2 Journal, Impact Factor: 5.2)
-
-📚 Activities
-------
-**Conference Participantion**  
-- 30th Rare Earth Research Conference (RERC30), Poster, Chicago, USA (June 14-19, 2025)
-- 30th Materials Chemistry Consortium (MCC) Annual Meeting, Poster, Daresbury, UK (July 3-5, 2024)
-- 11th International Conference on f Elements (ICFE11), Poster, Strasbourg, France (August 22-26, 2024)
-- 29th Materials Chemistry Consortium (MCC) Annual Meeting, Poster, Daresbury, UK (June 28-30, 2023)
 
 🥇 Awards
 ------
